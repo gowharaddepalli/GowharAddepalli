@@ -89,7 +89,7 @@ I bring hands-on experience across the full data science lifecycle—from data w
 
 ## 🔍 Open To
 
-- Data Science & Machine Learning Internships  
+- Data Science & Machine Learning
 - Python Developer / Backend Roles  
 - Research Opportunities in AI, NLP, or Analytics  
 - Remote or Freelance Collaborations

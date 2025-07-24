@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gowhar!</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Developer</h3>
 
-- 💬 Ask me about **DSA and Data Science, NLP, ML Ops & Backend APIs**
+- 💬 Ask me about ** DSA, NLP, ML Ops & Backend APIs**
 
 - 📫 How to reach me **addepalligowhar15@gmail.coM**
 
